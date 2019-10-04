@@ -114,6 +114,10 @@ public class MainActivity extends AppCompatActivity {
                 Numero1.setText(null);
                 Numero2.setText(null);
                 Resultat.setText("Résultat");
+                Plus.setChecked(false);
+                Moins.setChecked(false);
+                Multiplie.setChecked(false);
+                Divise.setChecked(false);
 
             }
         });

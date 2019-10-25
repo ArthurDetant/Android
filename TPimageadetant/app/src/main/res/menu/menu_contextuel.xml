@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/inverserCouleursOption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/inverserCouleurs" />
+    <item
+        android:id="@+id/niveauGrisOption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/niveauGris" />
+    <item
+        android:id="@+id/niveauGrisOption2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/niveauGris2" />
+    <item
+        android:id="@+id/niveauGrisOption3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/niveauGris3" />
+
+</menu>

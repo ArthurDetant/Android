@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Maître du Donjon"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:textSize="30dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_weight="2">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/piece1"
+                android:text="@string/piece1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"></Button>
+
+            <Button
+                android:id="@+id/piece2"
+                android:text="@string/piece2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"></Button>
+            <Button
+                android:id="@+id/piece3"
+                android:text="@string/piece3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"></Button>
+            <Button
+                android:id="@+id/piece4"
+                android:text="@string/piece4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"></Button>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/piece5"
+                android:text="@string/piece5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"></Button>
+
+            <Button
+                android:id="@+id/piece6"
+                android:text="@string/piece6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"></Button>
+            <Button
+                android:id="@+id/piece7"
+                android:text="@string/piece7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"></Button>
+            <Button
+                android:id="@+id/piece8"
+                android:text="@string/piece8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"></Button>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/piece9"
+                android:text="@string/piece9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"></Button>
+
+            <Button
+                android:id="@+id/piece10"
+                android:text="@string/piece10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"></Button>
+            <Button
+                android:id="@+id/piece11"
+                android:text="@string/piece11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"></Button>
+            <Button
+                android:id="@+id/piece12"
+                android:text="@string/piece12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"></Button>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/piece13"
+                android:text="@string/piece13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"></Button>
+
+            <Button
+                android:id="@+id/piece14"
+                android:text="@string/piece14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"></Button>
+            <Button
+                android:id="@+id/piece15"
+                android:text="@string/piece15"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"></Button>
+            <Button
+                android:id="@+id/piece16"
+                android:text="@string/piece16"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"></Button>
+
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TPimageadetant</string>
+    <string name="charger">Charger</string>
+    <string name="restaurer">Restaurer</string>
+    <string name="Hmiror">Miroir H</string>
+    <string name="Vmiror">Miroir V</string>
+    <string name="path">path</string>
+    <string name="inverserCouleurs">Inverser couleurs</string>
+    <string name="niveauGris">Niveau de gris</string>
+    <string name="niveauGris2">Niveau de gris 2</string>
+    <string name="niveauGris3">Niveau de gris 3</string>
+    <string name="rotationDroite">Rotation horaire</string>
+    <string name="rotationGauche">Rotation anti-horaire</string>
+</resources>
